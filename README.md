@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 
 ## 1.To Write a C program that illustrates files copying 
 
-```
+```c
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -73,14 +73,15 @@ int main(int argc, char *argv[]) {
 }
 
 ```
+## output
 
-
+![img](./img07/Screenshot%20at%202025-05-12%2012-44-50.png)
 
 
 
 ## 2.To Write a C program that illustrates files locking
 
-```
+```c
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -151,7 +152,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-
+~[img](./img/Screenshot%20at%202025-05-12%2013-01-43.png)
 
 
 
