@@ -152,7 +152,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-~[img](./img/Screenshot%20at%202025-05-12%2013-01-43.png)
+![img](./img/Screenshot%20at%202025-05-12%2013-01-43.png)
 
 
 
